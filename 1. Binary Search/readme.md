@@ -12,3 +12,5 @@ Langkah:
 5. Bagi 2 lagi.
 6. Repeat.
 7. Sampai ketemu baru tulis posisinya.
+
+Contoh dengan Python: https://www.youtube.com/watch?v=tgVSkMA8joQ
