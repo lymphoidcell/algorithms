@@ -6,7 +6,7 @@ Animasi: https://www.youtube.com/watch?v=DRsJ8sA9xzc
 
 Langkah:
 1. Sorting dulu urutannya.
-2. Dihitung ada berapa jumlah kolom, contoh: 10.
+2. Dihitung ada berapa jumlah elements-nya, contoh: 10.
 3. Dibagi 2 => 10:2 = 5
 4. Eliminasi kalau belum ketemu (decide mau ambil sayap kanan/kiri, tergantung > atau < dari N)
 5. Bagi 2 lagi.
