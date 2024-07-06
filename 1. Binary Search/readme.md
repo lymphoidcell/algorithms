@@ -14,3 +14,5 @@ Langkah:
 7. Sampai ketemu baru tulis posisinya (index).
 
 Contoh dengan Python: https://www.youtube.com/watch?v=tgVSkMA8joQ
+
+Alasan menggunakan algoritma ini => SPEED 🏎️
