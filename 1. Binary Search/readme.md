@@ -16,4 +16,5 @@ Langkah:
 Contoh dengan Python: https://www.youtube.com/watch?v=tgVSkMA8joQ
 
 Alasan menggunakan algoritma ini => SPEED 🏎️
+
 Proof: https://www.cs.usfca.edu/~galles/visualization/Search.html
