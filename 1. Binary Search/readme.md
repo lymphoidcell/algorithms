@@ -11,6 +11,6 @@ Langkah:
 4. Eliminasi kalau belum ketemu (decide mau ambil sayap kanan/kiri, tergantung > atau < dari N)
 5. Bagi 2 lagi.
 6. Repeat.
-7. Sampai ketemu baru tulis posisinya.
+7. Sampai ketemu baru tulis posisinya (index).
 
 Contoh dengan Python: https://www.youtube.com/watch?v=tgVSkMA8joQ
